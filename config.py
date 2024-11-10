@@ -1,0 +1,2 @@
+UPLOAD_FOLDER_PATH = "./pdfs"
+INDEX_FOLDER_PATH = "./store"
